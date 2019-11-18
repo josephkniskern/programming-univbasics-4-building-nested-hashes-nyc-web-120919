@@ -18,7 +18,12 @@ def monopoly_with_third_tier
         :owner3 => 3,
         :owner4 => 4
       },
-      :names => {}
+      :names => {
+        :name1 => "Jeff",
+        :name2 => "Dave",
+        :name3 => "Grace",
+        :name4 => "Alison"
+      }
     }
   }
 end
