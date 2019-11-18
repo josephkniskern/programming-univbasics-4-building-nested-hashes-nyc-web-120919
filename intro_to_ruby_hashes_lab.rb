@@ -18,7 +18,7 @@ def monopoly_with_third_tier
         :owner3 => 3,
         :owner4 => 4
       }
-      
+      :names => {}
     }
   }
 end
